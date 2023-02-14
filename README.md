@@ -1,2 +1,2 @@
 # CRUDinBlazor
-CRUD in Blazor (.NET) without using framwork
+CRUD in Blazor (.NET) WITHOUT using Framework!!!
